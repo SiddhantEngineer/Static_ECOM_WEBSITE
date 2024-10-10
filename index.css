@@ -1,0 +1,25 @@
+body {
+  height: 100dvh;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background: black;
+}
+
+h1 {
+  font-weight: 100;
+}
+
+button {
+  background: white;
+  padding: 10px;
+  color: blueviolet;
+  border-radius: 5px;
+  cursor: pointer;
+  border: none;
+}
